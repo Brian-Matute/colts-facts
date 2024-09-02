@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    </head>
+    <title>Indianapolis Colts</title>
+    <body>
+        <h1>Indianapolis Colts</h1>
+        <p>The Indianapolis Colts are a professional American football team based in Indianapolis. The Colts compete in the National Football League (NFL) as a member club of the league's American Football Conference (AFC) South division. Since the 2008 season, the Colts have played their games in Lucas Oil Stadium. Previously, the team had played for over two decades (1984–2007) at the RCA Dome. Since 1987, the Colts have served as the host team for the NFL Scouting Combine.</p>
+   <table border="1">
+        <th>Week</th>
+        <th>Opponent</th>
+            <tr>
+                <td>1</td>
+                <td>Vs Texans</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>@ Packers</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Vs Bears</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Vs Steelers</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>@ Jaguars</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>@ Titans</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Vs Dolphins</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>@ Texans</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>@ Vikings</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Vs Bills</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>@ Jets</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>Vs Lions</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>@ Patriots</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>BYE</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>@ Broncos</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>Vs Titans</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>@ Giants</td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>Vs Jauars</td>
+            </tr>
+   </table>
+   
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
